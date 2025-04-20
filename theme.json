@@ -4,3 +4,9 @@
   "appearance": "light",
   "radius": 0.8
 }
+{
+  "version": 2,
+  "builds": [
+    { "src": "index.html", "use": "@vercel/static" }
+  ]
+}
